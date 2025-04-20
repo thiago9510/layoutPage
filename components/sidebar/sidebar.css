@@ -19,7 +19,7 @@
   }
   
   .side-item.active {
-    background-color: #4f46e5;
+    background-color: var(--primary-color);
     color: white;
     gap: 14px;    
   }
